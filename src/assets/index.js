@@ -25,10 +25,27 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import work from "../assets/work.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import popo from "./popo.png";
+import workstedi from "./company/workstedi.png";
+import palremit from "./company/palremit.png";
+import sundan from "./company/sundan.png";
+import cinema from "./tech/cinema.png";
+import sketchUp from "./tech/sketchup.png";
+import photoshop from "./tech/photoshop.png";
+import freelance from "./tech/logo.png";
+
+import bdm1 from "./bdm1.jpg";
+import oak1 from "./oak1.jpg";
+import stylehive from "./sTYLEHIVE-7.jpg";
+import furna from "./Furna-1.jpg";
+import maryam from "./me.jpg";
+import behance from "./behance.png";
+import vader from "./vader.png";
 
 export {
   logo,
@@ -57,6 +74,22 @@ export {
   starbucks,
   tesla,
   carrent,
+  popo,
+  work,
   jobit,
   tripguide,
+  workstedi,
+  palremit,
+  sundan,
+  sketchUp,
+  cinema,
+  photoshop,
+  freelance,
+  bdm1,
+  oak1,
+  behance,
+  stylehive,
+  furna,
+  maryam,
+  vader
 };
