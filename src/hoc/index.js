@@ -1,3 +1,2 @@
-import sectionWrapper from "./sectionWrapper"
-
-export {sectionWrapper}
+import sectionWrapper from "./sectionWrapper.js";
+export { sectionWrapper };
